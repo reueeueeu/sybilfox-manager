@@ -32,7 +32,7 @@ go.work
 go.work.sum
 
 node_modules
-build
+frontend/build
 .svelte-kit
 package
 .env
