@@ -24,6 +24,10 @@
 
 ---
 
+<img width="1657" alt="screenshot" align="center" src="https://github.com/user-attachments/assets/e70523b8-ca90-4ad9-928f-3e495b8522e5" />
+
+---
+
 ## Скачать
 **[Windows](https://github.com/reueeueeu/sybilfox-manager/releases/download/0.1/sybilfox-manager_win_x86_64.exe)**
 **[Linux](https://github.com/reueeueeu/sybilfox-manager/releases)**
@@ -31,7 +35,6 @@
 
 ---
 
-<img width="1657" alt="screenshot" align="center" src="https://github.com/user-attachments/assets/e70523b8-ca90-4ad9-928f-3e495b8522e5" />
 
 
 
