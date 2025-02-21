@@ -128,7 +128,7 @@ Sybilfox успешно проходит тестирование по всем 
 ## Установка
 
 ### Требования
-- **[Wails](#https://wails.io/docs/gettingstarted/installation)**
+- **[Wails](https://wails.io/docs/gettingstarted/installation)**
 
 
 ### Шаги установки
