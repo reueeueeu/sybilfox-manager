@@ -4,14 +4,17 @@
 
 <h4 align="center">Антидект браузер и GUI менеджер для управления множеством профилей</h4>
 
-
-![Платформа](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20MacOS-green)
+<p align="center">
+  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20MacOS-green" alt="platforms" style="width: 250px; height: 25px;" width="250" height="55"/></a>
+</p>
 
 
 
 ---
 
 ## Описание
+
+**Все анонсы в телеграм канале [Sybilfox](https://t.me/sybilfox)**
 
 Описание сгенерировано с помощью ИИ.
 
