@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/reueeueeu/sybilfox-manager/refs/heads/main/banner.png" align="center" width="256" height="256">
+<img src="https://raw.githubusercontent.com/reueeueeu/sybilfox-manager/refs/heads/main/banner.png" align="center">
 
 <h1 align="center">Sybilfox</h1>
 
