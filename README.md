@@ -7,6 +7,8 @@
 
 ![Платформа](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20MacOS-green)
 
+
+
 ---
 
 ## Описание
