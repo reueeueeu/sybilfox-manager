@@ -31,6 +31,10 @@
 
 ---
 
+<img width="1657" alt="screenshot" align="center" src="https://github.com/user-attachments/assets/e70523b8-ca90-4ad9-928f-3e495b8522e5" />
+
+
+
 ## Особенности
 
 - **Управление профилями браузеров:** Создание и управление множеством профилей антидетект браузеров.
