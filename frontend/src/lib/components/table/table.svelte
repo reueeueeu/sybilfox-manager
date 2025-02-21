@@ -299,7 +299,7 @@
 		<div class="text-muted-foreground flex-1 text-sm">
 			Total {table.getFilteredRowModel().rows.length} profiles.
 		</div>
-		<div class="space-x-2">
+		<div class="space-x-2 z-50">
 			<Button
 				variant="outline"
 				size="sm"

@@ -67,7 +67,7 @@
 					</Breadcrumb.List>
 				</Breadcrumb.Root>
 			</div>
-			<div class="ml-auto mr-4 flex gap-4">
+			<div class="z-50 ml-auto mr-4 flex gap-4">
 				<Button
 					onclick={() => {
 						profileRequest = new profile.Request({
