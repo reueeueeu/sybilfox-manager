@@ -1,4 +1,10 @@
-# Sybilfox: Антидект браузер и GUI менеджер для управления множественными антидетект браузерными профилями
+
+<h1 align="center">Sybilfox</h1>
+
+<h4 align="center">Антидект браузер и GUI менеджер для управления браузерными профилями</h4>
+
+
+# Sybilfox: 
 ![Платформа](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20MacOS-green)
 
 ## Обзор
