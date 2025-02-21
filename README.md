@@ -3,11 +3,10 @@
 
 <h4 align="center">Антидект браузер и GUI менеджер для управления браузерными профилями</h4>
 
-
-# Sybilfox: 
+ 
 ![Платформа](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20MacOS-green)
 
-## Обзор
+## Описание
 
 Описание сгенерировано с помощью ИИ.
 
