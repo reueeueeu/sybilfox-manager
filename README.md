@@ -25,10 +25,9 @@
 ---
 
 ## Скачать
-**[Windows](#)**
-**[Linux](#)**
-**[Mac (Intel)](#)**
-**[Mac (Apple M)](#)**
+**[Windows](https://github.com/reueeueeu/sybilfox-manager/releases/download/0.1/sybilfox-manager_win_x86_64.exe)**
+**[Linux](https://github.com/reueeueeu/sybilfox-manager/releases)**
+**[Mac](https://github.com/reueeueeu/sybilfox-manager/releases/download/0.1/SybilfoxManager.dmg)**
 
 ---
 
